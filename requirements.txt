@@ -3,4 +3,4 @@ uvicorn
 scikit-learn
 rapidfuzz
 openpyxl
-pydantics
+pydantic
