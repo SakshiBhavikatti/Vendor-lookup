@@ -18,8 +18,13 @@ API URLs
 Main Endpoint
 
 POST /match-vendor
+header:
+content-type : application.json
 
 Request Body:
+raw : json
+
+http://127.0.0.1:8000/match-vendor
 
 {
   "vendor_name": "infy"
